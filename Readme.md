@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Гульнара Якупова](https://up.htmlacademy.ru/react/3/user/258701).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Татаринцев](https://up.htmlacademy.ru/react/3/user/235196).
 
 ---
 
