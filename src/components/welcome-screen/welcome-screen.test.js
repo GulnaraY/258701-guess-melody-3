@@ -9,6 +9,7 @@ it(`Should render WelcomeScreen`, () => {
     .create(
         <WelcemeScreen
           errorsCount = {errorsCount}
+          onWelcomeButtonClick={() => {}}
         />)
     .toJSON();
 

@@ -16,9 +16,10 @@ exports[`Should render WelcomeScreen 1`] = `
   </div>
   <button
     className="welcome__button"
+    onClick={[Function]}
   >
     <span
-      className="visually-hidden"
+      className="visully-hidden"
     >
       Начать игру
     </span>
