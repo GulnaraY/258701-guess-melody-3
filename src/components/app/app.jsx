@@ -20,7 +20,7 @@ class App extends PureComponent {
     const {step} = this.state;
     const question = questions[step];
 
-    if (step === -1 || step >= question.length) {
+    if (step === -1 || step >= questions.length) {
       return (
         <WelcomeScreen
           errorsCount={errorsCount}
